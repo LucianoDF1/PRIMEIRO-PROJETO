@@ -1,7 +1,5 @@
-![ciano8333fbc4-5ea7-454c-969e-e5e657202887](https://user-images.githubusercontent.com/90278161/132961216-6159bd8a-fe18-4f04-bd80-5015d18c635e.jpg)
-![SETA 2 fw](https://user-images.githubusercontent.com/90278161/132961218-232c1c36-2136-4937-bf06-5b655df362fd.png)
-![SETA-PARA-BAIXO](https://user-images.githubusercontent.com/90278161/132961219-a8a7caa1-586e-4125-a0af-18c79143b8cc.png)
-<!DOCTYPE html>
+ 
+<!DOCTYPE html
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -30,3 +28,6 @@
 <hr
 </body>
 </html>
+![ciano8333fbc4-5ea7-454c-969e-e5e657202887](https://user-images.githubusercontent.com/90278161/132961263-024b0fbe-36a5-4d53-ba14-7cab74315cb5.jpg)
+![SETA 2 fw](https://user-images.githubusercontent.com/90278161/132961268-3014f574-4cda-4727-9e49-07199a4aef2b.png)
+![SETA-PARA-BAIXO](https://user-images.githubusercontent.com/90278161/132961273-717bdb15-f0c8-4083-8faf-6a96220da975.png)
